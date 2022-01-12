@@ -1,0 +1,220 @@
+10
+alight        горит, зажжённый, освещенный, садиться, сходить с поезда
+thicket        заросли, чаща, кустарник, дебри
+reject        отвергать, отказывать, отклонять, накрыть, отказываться
+yoke        иго, ярмо, гнет, хомут, вилка, коромысло, кокетка
+anticipation       ожидание, предвкушение, предвосхищение, предчувствие, предвидение
+-----
+alight thicket reject yoke anticipation 
+-----
+
+scuffed        потертый, истереть(ся), идти волоча ноги, шаркать ногами
+saucepan    кастрюля
+showtime      время для шоу
+measuring    измерять, оценивать, дозироввка, измерительный, мерный, обмер
+ampere         ампер
+-----
+scuffed saucepan showtime measuring ampere 
+-----
+alight thicket reject yoke anticipation scuffed saucepan showtime measuring ampere 
+alight. thicket. reject. yoke. anticipation. scuffed. saucepan. showtime. measuring. ampere. 
+-----
+
+20
+pressed        поглаженный, сжатый, выглаженный, под давлением, сдавленный, спрессованный
+home   возвращаться/направлять (дом)а(ой)(ий), в цель, туго, в точку крепко, до конца, родной, до отказа, жилище  
+graduate    выпускник, аспирант, градуировать, имеющий ученую степень
+cute        милый, привлекательный, миловидный, умный
+so    так, поэтому, настолько, таким образом, столь, очень, значит, как, уж, так что, чтобы, затем
+-----
+pressed home graduate cute so   
+-----
+
+yield        урожай, доход(ть), давать, уступать
+aerial        воздушный, антена, авиационный, нереальный, эфирный, надземный, газообразный
+lucidly        доходчиво, понятно, ясно
+newspaper     газета(ый)
+cycle      цикл, круг(оворот), круговой процесс, полный круг, езлить на велосипеде(ый), такт процессора
+-----
+yield aerial lucidly newspaper cycle 
+-----
+pressed home graduate cute so yield aerial lucidly newspaper cycle 
+pressed. home. graduate. cute. so. yield. aerial. lucidly. newspaper. cycle. 
+-----
+
+30
+maison         дом
+same     одно и то же, тот/то/та же, тоже/та же самое/самый, таким же образом, одиноковый, однообразный, вышеупомянутый
+parlor        гостинная, комната, ателье, салон, кабинет
+apologies    извинения
+several        некоторые, несколько (но не много) {some, a few}
+-----
+maison same parlor apologies several 
+-----
+
+droppings    экскременты животных, то, что падает каплями, навоз
+explanation    объяснение, разъяснение, пояснение, оправдание
+bingo        отлично! точно! в яблочко! лото, бинго
+have        (иметь) в составе, обладать, получать, родить, приносить потомство, обман, мошенничество
+ball           мяч, шар(ой), бал, удар, собирать в клубок
+-----
+droppings explanation bingo have ball 
+-----
+maison same parlor apologies several droppings explanation bingo have ball 
+maison. same. parlor. apologies. several. droppings. explanation. bingo. have. ball. 
+-----
+
+40
+theory        теория, разг. предположение, доктрина, необоснованное предположени
+neighbour    сосед(ка), соседний, ближний, находиться рядом/у края
+justly        справедливо, законно, заслуженно, правильно
+wishing        желающий, пожелавший, стремящийся, изъявивший, желание, пожелание
+drama           драма, драматургия
+-----
+theory neighbour justly wishing drama 
+-----
+
+born               родившийся, (при)рожденный, с узким кругозором
+bra        бюстгалтер
+erect        возыодить, строить, поднимать, вертикальный, прямой
+decent        приличный, порядочный, пристойный, нестрогий
+landing        приземление, лестничная площадка, ав. посадка, высадка, место высадки
+-----
+born bra erect decent landing 
+-----
+theory neighbour justly wishing drama born bra erect decent landing 
+theory. neighbour. justly. wishing. drama. born. bra. erect. decent. landing. 
+-----
+
+50
+abdicate       отречься, отказываться, отрекаться, слагать полномочия
+adulthood     соввршенолетие, зрелость, зрелый возраст
+switch       пере(вы)ключатель(ть/ся), коммутатор, стегать прутом
+they           они
+sixpence    сумма в 6 пенсов, грош
+-----
+abdicate adulthood switch they sixpence 
+-----
+
+notching    насечка, надрез, выемка, заруба
+oppressive        угнетающий, тягостный, гнетущий, деспотический, тяжёлый
+sleek        гладкий, лоснящийся, вкрадчивый, наводить лоск, елейный
+maintenance    (тех)обслуживание, содержание, сохранение, поддержка, уход, поддержание, сопровождение
+active        активный, действующий, деятельный, действительный, живой
+-----
+notching oppressive sleek maintenance active 
+-----
+abdicate adulthood switch they sixpence notching oppressive sleek maintenance active 
+abdicate. adulthood. switch. they. sixpence. notching. oppressive. sleek. maintenance. active. 
+-----
+
+60
+boot        ботинок, сапог, багажник, коридорный, слуга, увольнять
+union          союз(ный), (объ)единение, соединение, брачный союз, уния, штуцер, смычк
+hardy  (выносливый) человек, морозоустойчивый, отважный, смелый, стойкий, закаленный, дерзкий, безрассудный, опрометчевый 
+passenger    пассажиры, седок, неспособный член
+downward    вниз, книзу, спускающийся, нисходящий, снижающийся
+-----
+boot union hardy passenger downward 
+-----
+
+crazed       сумасшедший
+exclusively    исключительно, только, всецело, единственно
+differently    иначе, по-другому, по-разному, различно
+groceries   продукты, бокалейный товары
+swine        свинья, нахал, сволочь, поросенок, неприятная или трудная вещь
+-----
+crazed exclusively differently groceries swine 
+-----
+boot union hardy passenger downward crazed exclusively differently groceries swine 
+boot. union. hardy. passenger. downward. crazed. exclusively. differently. groceries. swine. 
+-----
+
+70
+tile        плитка, черепица, кафель, изразец, гончарная/дренажная труба
+anticipate    предвидеть, ожидать, предвосхищать, опережать, предупреждать
+barging        бардак, перевозить на баржае,
+appraise        рас(о)ценивать
+adequate          адекватный, требованиям, быть достаточным(ый), соответствующий, отвечающий
+-----
+tile anticipate barging appraise adequate 
+-----
+
+seized          с(за)хваченный
+lookin           заглянуть, взгляд мельком, короткий визит/посещение, шанс
+countess    графиня
+vaguely        смутно, неясно, неопределенно, расплывчато, туманно, нечетко, невнятно, отчасти
+compete            состязаться, соревноваться, состязаться
+-----
+seized lookin countess vaguely compete 
+-----
+tile anticipate barging appraise adequate seized lookin countess vaguely compete 
+tile. anticipate. barging. appraise. adequate. seized. lookin. countess. vaguely. compete. 
+-----
+
+80
+weighing   взвешивание, развес(ой)(ка), весящий, взвешиваемый, взвешиваюший, взвешенный
+humor        юмор, шутка, ублажать, потакать, приспосабливаться
+white    (белый(ое)) цвет, бледный, белизна, белила, белок, белогвардейский(кожий), без злого умысла пятно/материал/фигуры, игрок, играющий белыми
+cultivate    культивировать, развивать, возделывать, прививать, обрабатывать
+prolong        продлевать, отсрочить, пролонгировать, продолжать, протягивать дальше
+-----
+weighing humor white cultivate prolong   
+-----
+
+failing        неудача, недостаток, в противном случае, за неимением, слабеющий
+aptitude     способность(и), пригодность, склонность, уместность
+principally     в основномя, главным образом, преимущественно
+disintegrate  распадаться, распасться, разрушиться, дазинтегрировать, разлагать, раздробляться, слабеть физически/умственно
+vintage        винтаж, сбор/урожай винограда, тип, марочный, выдержанный
+-----
+failing aptitude principally disintegrate vintage 
+-----
+weighing humor white cultivate prolong failing aptitude principally disintegrate vintage 
+weighing. humor. white. cultivate. prolong. failing. aptitude. principally. disintegrate. vintage. 
+-----
+
+90
+asphalt         покрывать (асфальт(ый)(ть)), битум
+trousers    брюки, штаны, панталоны, шаровары
+unofficial    неофициальный, кулуарный, неформальный, негласный, частный
+fascinate    (за)очаровывать, пленять, зачаровывать взглядом
+partial        частичный, неполный, неравнодушный, пристрастный, частный
+-----
+asphalt trousers unofficial fascinate partial 
+-----
+
+bluff        блеф, обман, обрыв, утёс, отвесный берег, крутой
+authoritarian                   авторитарный, сторонник авторитарной власти
+doc           доктор
+sibling         родной (брат), родная сестра, единотрубный брат/сестра, единокровный юрат/сестра
+welfare        благосостояние, благоденствие(ть), благополучие, социальное обеспечение
+-----
+bluff authoritarian doc sibling welfare 
+-----
+asphalt trousers unofficial fascinate partial bluff authoritarian doc sibling welfare 
+asphalt. trousers. unofficial. fascinate. partial. bluff. authoritarian. doc. sibling. welfare. 
+-----
+
+100
+waitress    официантка, подавальщица
+urveying    рассмотрение, наблюдая, рассматривая, геодезия, рассматривание, съёмка
+knit        вязать, связывать, соединять, скреплять, морщина, спрессовывать
+ardor        пыл, задор, рвение, азарт, страсть, жар, зной, интузиазм, пламенность
+bashing        разг. порка
+-----
+waitress urveying knit ardor bashing 
+-----
+
+sup        отхлёбывать, ужинать, хлебать, маленький, глоток
+blushing          краснея(ый), застенчевый, стыдливый, румяный
+upgrade      модернизация(ть), подъём, на подъеме, усовершенствование, улучшение, улучшать породу, повышать в должности
+labor        труд, работа, рабочая сила, роды, родовой акт
+preserve    сохранять, оберегать, сохранять, охранять, консервы
+-----
+sup blushing upgrade labor preserve 
+-----
+waitress urveying knit ardor bashing sup blushing upgrade labor preserve 
+waitress. urveying. knit. ardor. bashing. sup. blushing. upgrade. labor. preserve. 
+-----
+

@@ -1,0 +1,220 @@
+10
+tear        слеза, разрыв, (по)рвать, надрыв, рваться, раздирать, драть
+hollow        пустой, полый, впадина, углубление, пустотелый
+soil        почва, грунт, земля, территория, , пачкать, запятнать, гярзнить
+asparagus        спаржа
+parked        припаркованный, припарковался, парковка, парковал
+-----
+tear hollow soil asparagus parked 
+-----
+
+yelper        манок, нытик, визгун
+create       создавать, творить, созидать ,возводить в звание
+greedy        жадный, прожорливый, ненасытный, алчный
+reach        доставать, достичь, охват, дсосягаемость, доступностьъ
+confidential    конфиденциальный, секретный, доверительный, доверяющий
+-----
+yelper create greedy reach confidential 
+-----
+tear hollow soil asparagus parked yelper create greedy reach confidential 
+tear. hollow. soil. asparagus. parked. yelper. create. greedy. reach. confidential. 
+-----
+
+20
+heartless        бессердечный, бездушный, безжалостный
+query        запрос, сделать запрос, спрашивать, вопрос, осведомляться
+input        (ввод)(ть)(имый)/предоставление данных/сведений, входной, подводимый, входнимые данные, вводное устройство
+fantastic    фантастический, фантастика, потрясающий, замечательный, великолепный
+felon           уголовник, уголовный (преступник)(ый), панариций, паронихия, ногтоеда, жестокий
+-----
+heartless query input fantastic felon 
+-----
+
+loot        ограбление, добыча, грабить, мародерничать, награбленное, грабеж
+heathen      язычник(ий), варвар, неуч
+ongoing            продолжающийся, постоянный, непрерывный, поведение, поступки
+clue            ключ к разгадке, улика, путеводная нить, понятие, представление
+speed        скорость, ускорять, спешить, мчаться, торопиться, светочувствительность
+-----
+loot heathen ongoing clue speed 
+-----
+heartless query input fantastic felon loot heathen ongoing clue speed 
+heartless. query. input. fantastic. felon. loot. heathen. ongoing. clue. speed. 
+-----
+
+30
+inmate      заключенный(льный), обтатель, больной, жилец
+yummy    вкуснятина(ый), аппеьтитный
+finding        открытие, находка, обнаружение, нахождение, отыскание
+righty      правильно
+walking      ходьба, походка, хождение, гуляющий, ходящий
+-----
+inmate yummy finding righty walking 
+-----
+
+anatomy        анатомия(ние), анализ, скелет, тщательный разбор, кожа да кости
+goofy           тупой, бестолковый, глупый
+breeches    бриджи, брюки, штаны, галифе
+visit        визит, посещение(ть), поездка, побывать
+bluffing          блеф
+-----
+anatomy goofy breeches visit bluffing 
+-----
+inmate yummy finding righty walking anatomy goofy breeches visit bluffing 
+inmate. yummy. finding. righty. walking. anatomy. goofy. breeches. visit. bluffing. 
+-----
+
+40
+raw   что-либо необработанное(ый)/сырое(й), сырье, 
+rescuing         спасение, спасающий(ный)
+urging   пробуждая(ый), побудительный
+newest    новейший
+cucumbers    огурцы, огуречные дольки, доллары (сленг)
+-----
+raw rescuing urging cucumbers 
+-----
+
+sedative      успокаивание(ый), болеутоляющий, успокаивающее средство
+pulpit   кафедра, деятельность проповедника
+unavailable   недоступный, отсутствующий, недуступен, недействительный, не имеющийся в наличии
+seeing        видение(ость), смотря, в связи с, из-за, поскольку, учитывая
+vous          вы
+-----
+sedative pulpit unavailable seeing vous 
+-----
+raw rescuing urging cucumbers sedative pulpit unavailable seeing vous 
+raw. rescuing. urging. cucumbers. sedative. pulpit. unavailable. seeing. vous. 
+-----
+
+50
+flashlight    (карманный) фонарь, мигающий свет, сигнальный огонь
+exposure         контакт, экспозиция, подвергание, выдержка, разоблачение, незащиещенность
+state     состояние, государство(ый), положение, штат, утверждать, констатировать, высказывать, выражать знаками, точно определять
+identification  идентификация, отождествление, опознание(вание), выяснение, установление личности, солидаризация
+rattle        грохотать, трещать, погремушка, говорить быстро, громко
+-----
+flashlight exposure state identification rattle 
+-----
+
+tortoise    черепаха
+damsel  девица, грелка
+comparative    сравнительный, относительный, сравнительная степень, сопоставительный
+inhabited    населённый, населен, обитаемый, жилой,
+helpless    беспомощный, беззащитный, неумелый
+-----
+tortoise damsel comparative inhabited helpless 
+-----
+flashlight exposure state identification rattle tortoise damsel comparative inhabited helpless 
+flashlight. exposure. state. identification. rattle. tortoise. damsel. comparative. inhabited. helpless. 
+-----
+
+60
+cop             полицейский, полисмен, фараон, поймать, застать
+oatmeal       овсяная каша/мука, овсянка, толокно
+dirty      грязный(ть), нечистый, подлый, нечастный, пачкать, обсирать
+arbour        беседка, оправка, вал, шпиндель, ось
+consistent    согласующийся, последовательный, стойкий, совместимый, твёрдый
+-----
+cop oatmeal dirty arbour consistent
+-----
+
+knock        стук, удар, детонация, (по)стучать(ся), сбивать
+mancunian    житель манчестера, манчестерский
+expansion    экспансия, протяжение, увеличение, расширение, рост, развитие
+trespass    посягательство, злоупотребление, нарушение владения, пресекать
+crawling    ползущий, ползком, ползать
+-----
+knock mancunian expansion trespass crawling 
+-----
+cop oatmeal dirty arbour consistent knock mancunian expansion trespass crawling 
+cop. oatmeal. dirty. arbour. consistent. knock. mancunian. expansion. trespass. crawling. 
+-----
+
+70
+rudy              румянец
+penholder    перьевая (ручка), подставка для ручек
+lapping        лакать, жадно пить, всплеск, плещущий, ласкать
+casting     кастинг, отливка, литье(ый), разливочный, подборка актеров, смена кожи или рогов
+ballistic        баллистический
+-----
+rudy penholder lapping casting ballistic 
+-----
+
+prohibition      запрет, за(вос)прещение, сухой закон, блокирование, запретительный судебный приказ 
+censure       прорицание(ть), осуждение(ть), цензура 
+traveling   путешествие, пердвижной, дорожный, путешесвующий, связанный с путешетвием
+seaman        моряк, мореплаватель, матрос
+deliver        доставляьт, поставлять, передавать, избавлять
+-----
+prohibition censure traveling seaman deliver 
+-----
+rudy penholder lapping casting ballistic prohibition censure traveling seaman deliver 
+rudy. penholder. lapping. casting. ballistic. prohibition. censure. traveling. seaman. deliver. 
+-----
+
+80
+mirror            зеркало(це), отражение(ть), зеркальная поверхность, отображать
+navy        (военно-морской) (флот), морское ведомство
+academic       академический(е) аргументы, уебный, теоретический, университетский, ученый, профессор
+stormy    бурный, штормовой, буйный, неистовый, предвещающий бурю, яростный
+addedgarde  добавлен
+-----
+mirror navy academic stormy addedgarde 
+-----
+
+transmission    коробка (передач(а)), пересылка, трансмиссия
+corky        пробковый, весёлый, живой. ветреный, подвижный
+trice        мгновение, мор. подтягивать и привязывать
+mutiny        мятеж, бунт, поднять мятеж, восстание, взбунтоваться
+legislative     (законодательные)(ый) органы
+-----
+transmission corky trice mutiny legislative 
+-----
+mirror navy academic stormy addedgarde transmission corky trice mutiny legislative 
+mirror. navy. academic. stormy. addedgarde. transmission. corky. trice. mutiny. legislative. 
+-----
+
+90
+plumbing      сантехника, (водопровод)(ая) система, прокладка труб, измерение глубины, уборная
+marriage     брак(ый), женитьба, замужество, свадьба, тесный(ое) союз/единение, марьяж, стыковка ступеней раекеты
+counsel        адвокат, давать (совет), совещание
+mechanism    механизм, устройство, аппарат, техника
+guttural              (гоортанный) звук, горловой, задненебный, велярный
+-----
+plumbing marriage counsel mechanism guttural 
+-----
+
+eventful    богатый событиями, полный событий, знаменательный
+corneous    роговой, роговидный
+brown            коричневый, бурый, карий, медяк
+inscription    надпись, краткое посвящение, начертание, посвящение, эпитафия
+seasick        страдающий морской болезнью, морская болезнь, тошнота(ить), укачивало
+-----
+eventful corneous brown inscription seasick 
+-----
+plumbing marriage counsel mechanism guttural eventful corneous brown inscription seasick 
+plumbing. marriage. counsel. mechanism. guttural. eventful. corneous. brown. inscription. seasick. 
+-----
+
+100
+decide        решать, принимать решение, склонять к решению
+platter   большое плоское (блюдо), граммофонная пластинка
+spike        острие, шип(овки), острый выступ, всплеск, забивать гвозди
+marching         маршировка(ий), строевая подготовка, походное движение, движение походным порядком
+weirdest       самый (странный), непонятный, сверхестественный, таинственный, причудливый, роковой, фатальный
+-----
+decide platter spike marching weirdest 
+-----
+
+pursue        преследовать, продолжать, заниматься, гнаться за
+plus        плюс, (дополнительный)(ая) величина, положительный, добавочный
+pregnant    беременная, имеющий важное значение, полный смысла, перен. чреватый
+anthropology        антропология
+also          так же, тоже, к тому же
+-----
+pursue plus pregnant anthropology also
+-----
+decide platter spike marching weirdest pursue plus pregnant anthropology also
+decide. platter. spike. marching. weirdest. pursue. plus. pregnant. anthropology. also.
+-----
+

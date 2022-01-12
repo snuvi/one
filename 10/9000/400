@@ -1,0 +1,220 @@
+10
+bungalow    бунгало, дом с верандой, маленький одноэтажный дом/дача
+admission    вход, прием, признане, допущение, вступительный, пропускной
+fishy        рыбный, тусклый, подозрительный, с рыбным привкусом
+adversity           невзгоды, напасти, бедствия, неблагоприяная обстановка, превратности судьбы
+beak        клюв,слезник, судья, учитель, директор
+-----
+bungalow admission fishy adversity beak 
+-----
+
+noticing    замечающий
+merely        только, просто, единственно
+dope    допинг, наркотик, дурман, аэро(лак), дурак, паста, густое смазывающее вещество, заливать горючее
+sow        самка свиньи, сеять, свинья, распространять, свиноматка
+spill        проливать(ся), рассыпать(ся), разливать, расплёскивать, хлынуть
+-----
+noticing merely dope sow spill 
+-----
+bungalow admission fishy adversity beak noticing merely dope sow spill 
+bungalow. admission. fishy. adversity. beak. noticing. merely. dope. sow. spill. 
+-----
+
+20
+scroll      прокрутка, свисток, спираль, перечень, манускрипт, скрижали, плоская резьба, украшать завиткми
+business      бизенес, дело(ой), занятие, торговое предприятие, жесты, фирма, история, сделка
+trifling    пустячный(вый), несущественный, легкий разговор
+therefore    поэтому, следовательно, потому
+prostitute   девушка легкого поведения, заниматься (проститутка)(ей), шлюха, потаскушка, курва, блядь, наймит, продажный человек
+-----
+scroll business trifling therefore prostitute 
+-----
+
+craving        страстное желание/стремление
+unholy         нечестивый, порочный, ужасный, злобный, страшный
+approvement    утверждение, согласование, одобрение, похвала
+feasible    выполнимый, осуществимый, возможный, вероятный
+grandchildren    внуки, внучата
+-----
+craving unholy approvement feasible grandchildren 
+-----
+scroll business trifling therefore prostitute craving unholy approvement feasible grandchildren 
+scroll. business. trifling. therefore. prostitute. craving. unholy. approvement. feasible. grandchildren. 
+-----
+
+30
+extravagant           эксстравагантный, самосбродный, расточительный, непомерный, нелепый, крайний, блуждающий
+getting        передвижение, выемка, получающий, получение, прибыль
+avarice         жадность, алчность, корыстолюбие
+locate     найти, размещать, обнаруживать, определять местонахожение/место, поселять(ся), назначать место, высмотривать
+affray        пугать, драка, скандал, ссора
+-----
+extravagant getting avarice locate affray 
+-----
+
+mode        режим, способ, метод, принцип, уклад
+panties       трусики, детские штанишки
+fabulous    изумительный, невероятный, легендарный, потрясающий
+orderly       аккуратный, дневальный, упорядоченный, дежурный, санитар, ординарец, в полном порядке
+streak    проводить (полоса(ы))(ка) материала, (про)жилка(лок), струя, прослойка(ек), испещрять, мелькать, прочерчивать
+-----
+mode panties fabulous orderly streak 
+-----
+extravagant getting avarice locate affray mode panties fabulous orderly streak 
+extravagant. getting. avarice. locate. affray. mode. panties. fabulous. orderly. streak. 
+-----
+
+40
+pile        куча, груда, сваливать в кучу, кипа, накапливать
+sponsorship    попечительство, спонсорство, финансирование, спонсировать, поручительствово
+revealing     выявление, обнаружение, расскрытие, разоблачающий
+honorable    достойный, честный, знатный, почётный, благородный
+trouble    беда, беспокойство(ть), неприятность, тревога(ть), хлопоты, утруждать взбаламутить, заботить
+-----
+pile sponsorship revealing honorable trouble 
+-----
+
+spend        тратить, проводить, проводить время, расходовать, истощать
+conform        соответствовать, согласоваться, приспосабливаться, следовать/подчиняться правилам, сообразовываться
+flour        мука, пудра, крупчатка, порошок, посыпать мукой, молоть
+encounter    случайная встреча, столкновение, схватка, первый опыт, сталкиваться
+reputation    репутация, слава, реномк, доброе имя
+-----
+spend conform flour encounter reputation 
+-----
+pile sponsorship revealing honorable trouble spend conform flour encounter reputation 
+pile. sponsorship. revealing. honorable. trouble. spend. conform. flour. encounter. reputation. 
+-----
+
+50
+something    что-нибудь, (нечто) особенное, что-то, кое-что, что-либо, немного, приблизительно, несоклько, до некоторой степени, великолепно
+creak        скрип, скрипеть, скрипнуть, заскрипеть
+rusty        заржавленный, ржавый, хриплый, всколыхнуть
+painter        художник, маляр, живописец, фалинь (верёвка, крепящаяся к носу или корму шлюпки)
+coupl           два, чета, (пара) сил, пожениться, сцепить вагоны
+-----
+something creak rusty painter coupl 
+-----
+
+glossy        блестящий, глянцевый, вылощенный, лоснящийся
+people     люди, народ, жители, население, родные, подчиненные, на(за)селять, расти
+chamber        комната, камера, зал для приемов, палата
+candidate    кандидат, соискатель, аспирант
+sweetly         сладко
+-----
+glossy people chamber candidate sweetly 
+-----
+something creak rusty painter coupl glossy people chamber candidate sweetly 
+something. creak. rusty. painter. coupl. glossy. people. chamber. candidate. sweetly. 
+-----
+
+60
+messenger    курьер, посыльный, вестник, посланник, предвестник
+headmaster's    директора школы
+ruse        уловка, хитрость, ухищрение, прием
+elastic        эластичный, упругий, гибкий, резинка, тянущийся, резиновый
+arbitrarily          произвольно
+-----
+messenger headmaster's ruse elastic arbitrarily 
+-----
+
+hermit        отшельник, пустынник
+seeking       поиск, оты(о)скание, ищу, желавший, жаждующий
+keyhole        замочная скважина, узкий проход
+marquis        маркиз
+quite        вполне, совершенно, совсем, вполне, довольно
+-----
+hermit seeking keyhole marquis quite 
+-----
+messenger headmaster's ruse elastic arbitrarily hermit seeking keyhole marquis quite 
+messenger. headmaster's. ruse. elastic. arbitrarily. hermit. seeking. keyhole. marquis. quite. 
+-----
+
+70
+inquiries    справочное (от inquiry), вопросы, запросы, расспросы
+expense        расход, издержки, цена, трата, расхождеие
+haunt          преследовать, (часто посещать) какое-либо место, (по)являться, притон, часто посещаемое/любимое место, логовище, убежище
+absorb          впитывать, поглощать, абсорбировать, амортизировать, всасывать, захватывать, включать
+holler     (вс)крик(ть), окликать, вопить, вскрикнуть, шуметь
+-----
+inquiries expense haunt absorb holler 
+-----
+
+vote        (избиратель)ный/право (голос(а))(ть)/биллюбтень, голосование, вотум, баллотировка(ть), вносить предложение
+disease        болезнь, заболевание, вызывать заболевание, недуг
+usage        употребление, использование, обычай, словоупотребление, обиход
+speciality    фирменное блюдо, специальность, отличительная черта, занятие, особенность
+stagger        шатание, шатать, шататься, ошеломлять, идти шатаясь, потрясать
+-----
+vote disease usage speciality stagger 
+-----
+inquiries expense haunt absorb holler vote disease usage speciality stagger 
+inquiries. expense. haunt. absorb. holler. vote. disease. usage. speciality. stagger. 
+-----
+
+80
+barney               гулянка, попойка, крикливая ссора
+rejoined    воссоединенный, вернулся, отвечать, говорить в ответ, возражать
+said    сказал, выше(упомянутый), выше(сказанный)  
+component    компонент, составляющая, ингредиент, деталь, составной
+hallucinating    галлюционировать, вызывать/страдать галлюционацию(ями),
+-----
+barney rejoined said component hallucinating 
+-----
+
+quay        причал, набережная, стенка, мол
+expedient        целесообразно(ый), выгодный, подходящий, надлежащий, соответствующий, прием, уловка, средство достижения цели
+excited   в восторге, возбужденный, взволнованный, экзальтированный
+minims        мельчайшая частица, очень маленькая доля, капля, половинная нота
+wayfarer    пешеход, странник, путник
+-----
+quay expedient excited minims wayfarer  
+-----
+barney rejoined said component hallucinating quay expedient excited minims wayfarer  
+barney. rejoined. said. component. hallucinating. quay. expedient. excited. minims. wayfarer.  
+-----
+
+90
+chair         стул, кресло, председатель(ть), кафедра, поднимать и нести на стуле
+excitedly    взволнованно, возбужденно, азартно, деятельно
+mow        косить, скирдовать, гримаса(чать), стоговать, сеновал
+turning        превращение, повторный, поворот, обточка, токарная работа, обход фланга
+provoke        провоцировать, вызывать, побуждать, раздражать
+-----
+chair excitedly mow turning provoke 
+-----
+
+reversion    атавизм, перемена направления, перестановка, возврат, обратная мутация
+graze        задевать, оцарапать, пастись, содрать кожу, слегка касаться, сдирать
+fundraiser           сборщик (денежных) средств
+subway    метро(политен), подземка(ый) переход/железная дорога, тоннель
+admiringly     восхищенно
+-----
+reversion graze fundraiser subway admiringly 
+-----
+chair excitedly mow turning provoke reversion graze fundraiser subway admiringly 
+chair. excitedly. mow. turning. provoke. reversion. graze. fundraiser. subway. admiringly. 
+-----
+
+100
+adapter        адаптер, переходник, держатель, соеденительное устройство. тот кто адаптирует
+winter       зима(ый), год, озимый, (пепе)зимовать, проводить зиму, содержать зимой
+stature        рост, фигура, престиж, достоинство, стан
+thick        толстый, густой, полный, частый, густо, пекло, разгар
+woeful    печальный, горестный, скорбный, страшный, жалкий, несчастный, очень плохо
+-----
+adapter winter stature thick woeful 
+-----
+
+pine        сосна(ый), хвойный, ананас, тосковать
+endurance    выносливость, прочность, стойкость, долговечность
+colourful    красочный, яркий, разноцветный, цветной
+honour        честь, слава, чтить, акцентировать
+concede        уступать, признавать, допускать
+-----
+pine endurance colourful honour concede 
+-----
+adapter winter stature thick woeful pine endurance colourful honour concede 
+adapter. winter. stature. thick. woeful. pine. endurance. colourful. honour. concede. 
+-----
+

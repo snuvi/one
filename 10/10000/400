@@ -1,0 +1,220 @@
+10
+stale        несвежий, затхлый, черствый, устаревать, утрачивать новизну, становиться неинтересным
+detach         отделять(ся), разъединять, отцеплять, прерывать соединение, откомандировывать
+occur         происходить, иметь место, встречаться, приходить на ум
+retail      розничная торговля/продажа, продавать(ся) (в розницу)(ый), пересказывать, распространять
+officer        чиновник, офицер, должностное лицо, служащий, сотрудник, командовать
+-----
+stale detach occur retail officer 
+-----
+
+decrease    уменьшение, уменьшить, понижение. уменьшаться, убывать
+routine       рутина, заведенный (распорядок), рутинный, обычный
+actuality    актуальность, реальность, факты
+blackmail    шантажировать, шантаж, вымогательство, вымогать деньги
+slightly    слегка, немного, незначительно, еле-еле, несущественно
+-----
+decrease routine actuality blackmail slightly 
+-----
+stale detach occur retail officer decrease routine actuality blackmail slightly 
+stale. detach. occur. retail. officer. decrease. routine. actuality. blackmail. slightly. 
+-----
+
+20
+profession    профессия, род занятий, сфера деятельности, вступление в религиозный орден, вероисповедание
+undercover    тайный, секретный, потаенный, под прикрытием
+rename     переименовать, перекрестить, жавать новое имя
+author        автор, писатель, создаитель, творец
+regrettably
+-----
+profession undercover rename author regrettably   
+-----
+
+different    непохожий, другой, отличный, разный, различный, отличающийся, другой
+locking        захват, блокировка, запирание, замыкание, стопорение, замыкание
+harassing    преследование, изнуряющий
+farewell    прощайте! до свидания! добрый путь! прощание(ый), напутственный
+additive       добавка, присдка, примесь
+-----
+different locking harassing farewell additive 
+-----
+profession undercover rename author regrettably different locking harassing farewell additive 
+profession. undercover. rename. author. regrettably. different. locking. harassing. farewell. additive. 
+-----
+
+30
+balsom        бальзам
+supporter    сторонник, приверженец, болельщик; сторонник, приверженец, болельщик
+cam            кулак(ок), эксцентрик, копир, поводковый патрон, рудоразборный стол, ассоциативная память
+strategy    стратегия, линия поведения, поведение, план, методология
+automatic    автоматический(нный), автомат, машинальный, непроизвольный
+-----
+balsom supporter cam strategy automatic 
+-----
+
+porridge    овсяная (каша), картофельное (пюре), тюремное заключение
+capeside          мыс
+gut         кишка, потрошить, инстиктивный, струна или леса из кишки, опустошать, гусущный, слепой, узкий пролив
+pay         (за)платить, о(у)плачивать, (зар)плата(ый)
+hoist        поднимать (флаг, парус), подъём, подъёмник, поднятие, совершить кражу
+-----
+porridge capeside gut pay hoist 
+-----
+balsom supporter cam strategy automatic porridge capeside gut pay hoist 
+balsom. supporter. cam. strategy. automatic. porridge. capeside. gut. pay. hoist. 
+-----
+
+40
+spiritual     духовный, одухотворенный, религиозный, возвышенный, святой, божественный, верующий, церковные(ый) дела
+mill        мельница(чный), фабрика, завод, стан, фрезер
+open          открыть(ать)(ся)(ый), отворять(ся), открытое пространство
+medical        медецинский, врачебныйю терапевтический, студет-медик
+alluded        ссылаться, намекать, упоминать, подразумевать,
+-----
+spiritual mill open medical alluded 
+-----
+
+mane        грива, копна, космы
+scurrying    стремглав, суетливый, спешащий
+stricken        пораженный, раненный, разбитый
+spa        курорт с минеральными водами, амер. киоск с прохладительными напитками
+anywhere          в любом случае, везде, никуда, где/когда угодно, всюду, где/куда-либо, когда/куда-нибудь
+-----
+mane scurrying stricken spa anywhere 
+-----
+spiritual mill open medical alluded mane scurrying stricken spa anywhere 
+spiritual. mill. open. medical. alluded. mane. scurrying. stricken. spa. anywhere. 
+-----
+
+50
+vinegar        уксус()ый, нелюбезный ответ, неприятный характер, неприятный, кислый
+goal     цель, гол, задача, ворота, финиш, мета, место назначения
+squint        косоглазие, косить глаза, прищуриться, смотреть искоса, украдкой, косой
+plaza            раночная (порщадь)
+junk      баразло, хлам, рухлядь, битое стекло, мелкий скрап
+-----
+vinegar goal squint plaza junk 
+-----
+
+rookie          новобранец, (новичок) в спортивной команде, рекрут, дух
+probable    вероятный, возможный, предполагаемый, вероятность, правдоподобный
+opener    консервный нож, открывашка(лка), первый номер телеграммы
+preparation    приготовление, подготовка, препарат, лекарство
+climate        климат, акклиматизировать, приспосабливать к новой среде, атмосфера, атмосферный
+-----
+rookie probable opener preparation climate 
+-----
+vinegar goal squint plaza junk rookie probable opener preparation climate 
+vinegar. goal. squint. plaza. junk. rookie. probable. opener. preparation. climate. 
+-----
+
+60
+disdain        презирение, пренебрегание, презирать, считать ниже своего достоинства
+wholesome   полезный, здоровый, благотворный, здравый, здравомыслящий, пышуший здоровьем, безопасный 
+uniform       униформа, обмундирование, единый, равноменый, одевать в ыорму
+unfocused    несфокусированный, рассеянный, несосредоточенный
+originally    оригинально, по происхождению, первоначально, изначально
+-----
+disdain wholesome uniform unfocused originally 
+-----
+
+hunk           толстый(кусок), ломоть, гроб
+exam           экзамен, испытание, исследование, сессия
+buying               покупка, купля
+eloquence    красноречие, красноречивость, риторика, ораторское искусство
+needful    необходимо(е)(тый), нужный, потребный
+-----
+hunk exam buying eloquence needful 
+-----
+disdain wholesome uniform unfocused originally hunk exam buying eloquence needful 
+disdain. wholesome. uniform. unfocused. originally. hunk. exam. buying. eloquence. needful. 
+-----
+
+70
+sufficiently    достаточно, совершенно, полностью, презрительно, с презрением
+explaining       об(раз/по)ъясняющий, рассказывающий, описываюший, объяснение, пояснение
+mar     повредить, портить, ударять, искажать, синяк, ушиб, помеха
+dutch     голландский
+herein        в этом, здесь, при сём
+-----
+sufficiently explaining mar dutch herein 
+-----
+
+correct        правильный, исправлять, корректировать, корректный, верный
+missile        ракета(ный), (реактивный/метательный) снаярд
+goes        идет, движется, продолжать, проходит, едет
+door           дверь(ой), дверца, вход, дом, помещение
+bridal     свадьба(ый) пир
+-----
+correct missile goes door rev 
+-----
+sufficiently explaining mar dutch herein correct missile goes door bridal 
+sufficiently. explaining. mar. dutch. herein. correct. missile. goes. door. bridal. 
+-----
+
+80
+approval    одобрение, утверждение, согласие
+landlady    владелица дома/квартиры, сдаваемых внаём, хозяйка квартиры/пансиона/мебелированных комнат
+quontitent    постоянный
+playground  игровая/детская/спортивная площадка, площадка для игр, спортплошадка
+rodent   грызун, разъедающий, относящийся к отряду грызунов
+-----
+approval landlady quontitent playground rodent 
+-----
+
+choir     церковный (хор)(ы), петь хором, клиорс, хоровой ансамбль, место хора 
+merit        заслуга, достоинство, быть достойным, заслуживать, заслужить
+troubleshooting    исправление проблем, аварийный
+bomber         бомбадировщик, бомбометатель, гранатосетчик
+radio          радио(ть), радиоприемик, посылать радиограмму
+-----
+choir merit troubleshooting bomber radio 
+-----
+approval landlady quontitent playground rodent choir merit troubleshooting bomber radio 
+approval. landlady. quontitent. playground. rodent. choir. merit. troubleshooting. bomber. radio. 
+-----
+
+90
+procedural      процедурный
+nose         нос(ой), носик, передняя часть, головной, осторожно продвигаться вперед
+interpretation    интераритация, тлкование, перевод, объяснение, дешировка
+sleigh        сани, салазки, кататься на санях, кувалда, сокрушительный, кузнечный молот
+retain        сохранять, сохранять за собой, удерживать, сохранять, держать
+-----
+procedural nose interpretation sleigh retain 
+-----
+
+arithmetic    счет, арифметика, арифметический
+sis        сестренка
+aesthetically          эстетически
+mention        благодарность, ссылаться на, упоминать, упоминание, упомянуть
+declaring      объявление(ший), декларирование(ий), заявление(ий), заявивиший, заявляющий, провозглашающий(ший)
+-----
+arithmetic sis aesthetically mention declaring 
+-----
+procedural nose interpretation sleigh retain arithmetic sis aesthetically mention declaring 
+procedural. nose. interpretation. sleigh. retain. arithmetic. sis. aesthetically. mention. declaring. 
+-----
+
+100
+stabbing   колющмий, вонзание, терзание
+cracking      крекинг, рас(треск)ивание, раскалывание, разрушение молекул
+perplexed        озадаченный, ошеломленный, запутанный
+upright         вертикально(ый), прямой, честный, стойка
+flee        спасаться бегством
+-----
+stabbing cracking perplexed upright flee 
+-----
+
+tentacles    усики, щекотка, щупальца, щупальце
+ordeal        тяжелое/суровое (испытание),мытарстыо, суд божий
+counter        счетчик, противостоять, прилавок, стойка, встречный, противоречить
+clash        столкновение, конфликт, сталкиваться, ляз, гбитва
+sexy       чрезмерно (сексуальный), эротичный, чувственный
+-----
+tentacles ordeal counter clash sexy  
+-----
+stabbing cracking perplexed upright flee tentacles ordeal counter clash sexy  
+stabbing. cracking. perplexed. upright. flee. tentacles. ordeal. counter. clash. sexy.  
+-----
+
